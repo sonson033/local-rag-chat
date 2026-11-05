@@ -1,0 +1,74 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 809 >>
+stream
+BT /F1 11 Tf 15 TL 60 780 Td
+(Northwind Labs GmbH - Business Travel Policy) Tj T*
+(Version 2.1, valid from 1 March 2026) Tj T*
+() Tj T*
+(1. Approval) Tj T*
+(Every business trip must be approved by your team lead before booking.) Tj T*
+(Trips outside Europe also need approval from the Head of Finance.) Tj T*
+(Submit the travel request in the TravelDesk tool at least 14 days in advance.) Tj T*
+() Tj T*
+(2. Transport) Tj T*
+(Train is the default for trips under 600 km. Book second class.) Tj T*
+(First class is allowed for train rides longer than 4 hours.) Tj T*
+(Flights are allowed for distances over 600 km. Always book economy class.) Tj T*
+(Business class is only allowed for flights longer than 8 hours.) Tj T*
+(Taxis are reimbursed up to 50 EUR per ride. Use public transport when possible.) Tj T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 810 >>
+stream
+BT /F1 11 Tf 15 TL 60 780 Td
+(3. Hotels) Tj T*
+(The hotel budget is 140 EUR per night in Germany.) Tj T*
+(In London, Paris and Zurich the hotel budget is 220 EUR per night.) Tj T*
+(Book hotels through TravelDesk to get the company rate.) Tj T*
+() Tj T*
+(4. Meals and per diem) Tj T*
+(Employees receive a per diem of 28 EUR for each full travel day in Germany.) Tj T*
+(For trips abroad the per diem is 40 EUR per full day.) Tj T*
+(Client dinners must be approved by your team lead and need a receipt.) Tj T*
+() Tj T*
+(5. Expense reports) Tj T*
+(Submit your expense report within 30 days after the trip.) Tj T*
+(Upload all receipts as PDF or photo in the ExpenseHub app.) Tj T*
+(Reimbursement is paid with the next monthly salary.) Tj T*
+(Questions about travel: write to travel@northwind-labs.example.) Tj T*
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000001177 00000 n 
+0000001303 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2164
+%%EOF

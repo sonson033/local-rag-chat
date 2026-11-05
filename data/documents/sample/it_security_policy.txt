@@ -1,0 +1,26 @@
+NORTHWIND LABS GMBH - IT SECURITY POLICY (fictional, for demo purposes)
+Version 3.0, valid from February 2026
+
+1. Passwords
+Passwords must have at least 14 characters.
+Use the company password manager "Vaultly" for all work passwords.
+Never reuse a work password for private accounts.
+Two-factor authentication (2FA) is mandatory for email, GitHub and the HR portal.
+
+2. Devices
+Company laptops must use full disk encryption (FileVault on macOS, BitLocker on Windows).
+The screen must lock automatically after 5 minutes without activity.
+Install updates within 7 days after they are released.
+Private USB sticks are not allowed on company laptops.
+
+3. Phishing and incidents
+If you receive a suspicious email, do not click any links.
+Report it with the "Report phishing" button in Outlook.
+A lost or stolen laptop must be reported to the IT helpdesk within 1 hour (extension 4242).
+Security incidents are handled by the security team: security@northwind-labs.example
+
+4. Data classification
+Public: marketing material, website texts.
+Internal: handbook, meeting notes.
+Confidential: customer data, salaries, contracts. Confidential data must never be uploaded
+to public AI tools or cloud services that are not approved by IT.
